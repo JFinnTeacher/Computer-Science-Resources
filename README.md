@@ -21,3 +21,4 @@
 ## General Links
 --- 
 - [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca/)
+- [README](README.md)
