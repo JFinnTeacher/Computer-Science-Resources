@@ -21,3 +21,14 @@ Each Link will have a short description and be organised by general topic.
 ## General Links
 --- 
 - [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca/)
+
+## Github Based Resources
+- https://github.com/vinta/awesome-python
+- https://github.com/wesbos/JavaScript30
+- https://github.com/TheAlgorithms
+- https://github.com/TheOdinProject
+- https://github.com/codecrafters-io/build-your-own-x
+- https://github.com/lydiahallie/javascript-questions
+
+## YouTube Resources
+- https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7

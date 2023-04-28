@@ -26,5 +26,13 @@ The most basic thing python can be used for is to work with text. Some of the te
 	- Note the structure of the brackets and inverted commas to print a string to the screen
 
 ## Practice Code
+The best way to learn how a python program works is to practice it
+
+Work through the exercises below to become familiar with the Print Command
 
 ## Exercises
+### Exercise 01
+#### Task 01
+Using **one** print function, produce this output
+<span style="background:#9254de">> Hello world</span>
+
