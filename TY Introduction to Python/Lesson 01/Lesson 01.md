@@ -2,13 +2,13 @@
 ## Accessing Replit
 Go to https://www.replit.com and log in with your Adamstown email to create an account. You will be invited to join a team which will be used for sharing projects and assignments with you
 ## Creating first Repl
-![](_attachments/Lesson%2001_image_1.png)
+![](../../../../../_attachments/Lesson%2001_image_1.png)
 Click on the Repl button to create your first block of code
 1. Under Template start typing python and choose Python as the template
 2. It is important to give the Repl a recognisable name
 3. finally click on the Blue Create Repl
 #### Replit Window
-![](_attachments/Lesson%2001_image_2.png)
+![](../../../../../_attachments/Lesson%2001_image_2.png)
 The main parts of the Replit Window
 A. The list of the files in the Repl. the file called main.py must be there as this is what is run.
 B. Then main coding window. This is where the code is placed
@@ -34,5 +34,18 @@ Work through the exercises below to become familiar with the Print Command
 ### Exercise 01
 #### Task 01
 Using **one** print function, produce this output
-<span style="background:#9254de">> Hello world</span>
+> Hello world
+#### Task 02
+Using **two** print functions, produce this output
+> Question. What do you call it when you have your mom's mom on social media?
+>Answer. Instagran
+#### Task 03
+Using **one** print function and this code \U0001f600, produce this output
+> 😀
 
+***Hint* Even though this is a smiley face, you will still need to print the code like a string**
+
+### Exercise 02
+#### Task 01
+Using **one** print function, produce this output
+> I am learning how to use the newline and tab special characters.
