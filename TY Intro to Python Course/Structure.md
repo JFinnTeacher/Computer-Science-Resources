@@ -1,17 +1,6 @@
 # Structure of Ty Programming Course
-## Old Structure of Course
 
-- Lesson 01 - Printing to the Screen
-- Lesson 02 - Variables and Data Types
-- Lesson 03 - Testing your Code
-- Lesson 04 - Inputs and Strings
-- Lesson 05 - Conditional Statements
-- Lesson 06 - Iteration
-- Lesson 07 - Working with Lists
-- Lesson 08 - Working with Turtle Graphics
-- Project - 
-
-## New Structure
+## Structure of Course
 
 - Lesson 01 - Introduction to python and the Print Command (1 Period)
 - Lesson 02 - Variables and Data Types (1 Period)
