@@ -1,8 +1,11 @@
 # Useful Links
+
 This page contains a library of links to useful resources for teachers and students of Computer Science in Ireland.
 Each Link will have a short description and be organised by general topic. The Date in Brackets is the date that the link was checked and working.
 
 ---
+
+- [Useful Links](https://github.com/finnwood/Computer-Science-Resources/blob/main/Links%20to%20Useful%20Sites.md#useful-links)
 
 ---
 
