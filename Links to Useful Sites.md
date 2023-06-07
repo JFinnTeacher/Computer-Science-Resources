@@ -1,13 +1,13 @@
 This page contains a library of links to useful resources for teachers and students of Computer Science in Ireland.
-Each Link will have a short description and be organised by general topic.
+Each Link will have a short description and be organised by general topic. The Date in Brackets is the date that the link was checked and working.
 
 ---
 
 ## Useful Links
 
 - [Firebase Tutorials - Curriculum Online](https://www.curriculumonline.ie/Senior-cycle/Senior-Cycle-Subjects/Computer-Science/CS-Support-for-Teaching-and-Learning/Support-Material-for-Teaching-and-Learning/2-ALT-Resources/CSinP-ALT/Tutorials-for-Firebase/)
-- https://teachwithict.weebly.com/
-- https://www.bloomsburyonlineresources.com/100-ideas-for-secondary-teachers-outstanding-computing/home
+- [https://teachwithict.weebly.com/]()
+- [https://www.bloomsburyonlineresources.com/100-ideas-for-secondary-teachers-outstanding-computing/home]()
 
 ## Links From National Workshop 7
 
@@ -25,7 +25,7 @@ Each Link will have a short description and be organised by general topic.
 
 ---
 
-- [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca/)
+- [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca/) - Univ of Waterloo - Introduction to Computer Science and Python Programming. This is a free site with a login to save progress for teachers and students (06/2022)
 
 ## Github Based Resources
 
