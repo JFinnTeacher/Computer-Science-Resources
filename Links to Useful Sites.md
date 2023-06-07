@@ -3,7 +3,7 @@ This page contains a library of links to useful resources for teachers and stude
 Each Link will have a short description and be organised by general topic. The Date in Brackets is the date that the link was checked and working.
 
 ---
-- (Useful Links)[#useful-links]
+
 ---
 
 ## Useful Links
