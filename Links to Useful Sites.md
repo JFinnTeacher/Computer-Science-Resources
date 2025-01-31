@@ -45,10 +45,18 @@ Below are a series of Curated links broken down by topic.
 - [OS Definitions](https://wordwall.net/resource/17405688/-8-computer-operating-system-) - Match OS words to their definitions
 - [Virtual Machines Online](https://www.onworks.net/programs/vm-online) - Run Windows, Mac or Linux in Virtual Machine in the Browser
 - [PCJs machines](https://www.pcjs.org/) - Old Operating systems thet run in emulators in your browser.
+- [Web OS](https://webos.js.org/) - Run Versions of Operating Systems including Mac OS Online
+- [Operating System Library](https://winworldpc.com/library/operating-systems) - Disk Images of old Operating Systems to download that can be installed on Virtual Machines
 
 ### Microbit
 
 * [Microbit and AI](https://microbit.org/get-started/user-guide/microbit-createai/) - explore AI through movement and machine learning (ML)
+
+### Logic Gates
+
+* [Logicly](https://logic.ly/) - Create and Simulate Logic Gates online (Free Trial)`
+* [Logic Circuit](https://logiccircuit.org/download.html) - Free software to build logic circuits and automatically generate truth tables
+* [Everycircuit](https://everycircuit.com/app) - Online Electronic Circuit simulator including logic Gates
 
 ### Books
 
