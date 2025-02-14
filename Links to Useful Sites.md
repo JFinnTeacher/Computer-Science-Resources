@@ -9,7 +9,7 @@ Below are a series of Curated links broken down by topic.
 
 ### General Purpouse
 
-- [https://teachwithict.weebly.com/](https://teachwithict.weebly.com) - Good Website with Strategies and Resources for Teaching ICT (02/2025)
+- [Teach with ICT](https://teachwithict.weebly.com) - Good Website with Strategies and Resources for Teaching ICT (02/2025)
 
 ### IDEs
 
@@ -42,7 +42,6 @@ Below are a series of Curated links broken down by topic.
 - [Our World in Data](https://ourworldindata.org/) - Collection of Free Data Sources that can be downloaded for use in Analytics
 - [Statista](https://www.statista.com/) - Collection of Free to use data sources
 - [Kaggle](https://www.kaggle.com/) - Free to access Datasets. Does not require login
--
 
 ### Operating Systems
 
@@ -68,9 +67,9 @@ Below are a series of Curated links broken down by topic.
 
 ### Classroom Resources
 
-* [https://www.codepuzzle.io/en](https://www.codepuzzle.io/en) - Create Puzzles from code (07/2023)
-  * [https://www.codepuzzle.io/p/PFU2CS]() - Example - Put the code shown in the correct order (07/2023)
-* [https://deck.of.cards/](https://deck.of.cards) - Deck of Cards. Can be used for demonstrating Sorting Methods (07/2023)
+* [Code Puzzle](https://www.codepuzzle.io/en) - Create Puzzles from code (07/2023)
+  * [Example Puzzle from Code Puzzle](https://www.codepuzzle.io/p/PFU2CS) - Example - Put the code shown in the correct order (07/2023)
+* [Deck of Cards](https://deck.of.cards) - Deck of Cards. Can be used for demonstrating Sorting Methods (07/2023)
 * [https://www.toptal.com/developers/sorting-algorithms](https://www.toptal.com/developers/sorting-algorithms) - A Nice Site demonstrating Graphically the different types of Sorting Algorithims (07/2023)
 
 ### Links From National Workshop 7
