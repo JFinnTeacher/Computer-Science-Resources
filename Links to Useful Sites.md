@@ -9,8 +9,7 @@ Below are a series of Curated links broken down by topic.
 
 ### General Purpouse
 
-- [Firebase Tutorials - Curriculum Online](https://www.curriculumonline.ie/Senior-cycle/Senior-Cycle-Subjects/Computer-Science/CS-Support-for-Teaching-and-Learning/Support-Material-for-Teaching-and-Learning/2-ALT-Resources/CSinP-ALT/Tutorials-for-Firebase/) - tutorials on Setting up and Using Firebase for LCCS (07/2023)
-- [https://teachwithict.weebly.com/](https://teachwithict.weebly.com) - Good Website with Strategies and Resources for Teaching ICT (07/2023)
+- [https://teachwithict.weebly.com/](https://teachwithict.weebly.com) - Good Website with Strategies and Resources for Teaching ICT (02/2025)
 
 ### IDEs
 
@@ -38,7 +37,7 @@ Below are a series of Curated links broken down by topic.
 - [Our World in Data](https://ourworldindata.org/) - Collection of Free Data Sources that can be downloaded for use in Analytics
 - [Statista](https://www.statista.com/) - Collection of Free to use data sources
 - [Kaggle](https://www.kaggle.com/) - Free to access Datasets. Does not require login
-- 
+-
 
 ### Operating Systems
 
