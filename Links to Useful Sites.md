@@ -24,6 +24,7 @@ Below are a series of Curated links broken down by topic.
 ### Python Coding
 
 - [Turing Labs](https://www.amazonfutureengineer.co.uk/turinglab) - Learn Python Coding from Amazon Future Engineer
+- [Python CheatSheet](https://quickref.me/python#google_vignette) - Python Cheat Sheet
 
 ### Networking
 
@@ -31,6 +32,10 @@ Below are a series of Curated links broken down by topic.
 - [Network Protocol Matching Quiz](https://wordwall.net/resource/17098513/computing/ks4-network-protocols) - Word matching quiz for Network Protocols
 - [Network Hardware Word Match Quiz](https://wordwall.net/resource/4384280/computing/14-network-hardware) - Word Match Quiz on Network Hardware
 - [Network Design Drag and Drop](https://www.101computing.net/network-design-drag-drop/) - Identify Common Network Hardware
+
+### AI Links
+
+* [ChatGPT Cheatsheet](https://quickref.me/chatgpt) - Help in creating prompts for ChatGPT and other LLMs
 
 ### Data Sources (ALT2)
 
