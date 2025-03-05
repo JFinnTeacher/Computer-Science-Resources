@@ -11,11 +11,19 @@ Below are a series of Curated links broken down by topic.
 
 - [Teach with ICT](https://teachwithict.weebly.com) - Good Website with Strategies and Resources for Teaching ICT (02/2025)
 
-### IDEs
+### IDEs Offline
 
 - [Thonny](https://thonny.org/) - Basic IDE for working with Python
 - [Visual Studio Code](https://code.visualstudio.com/) - More powerful IDE provided by Microsoft
 - [Github Desktop](https://github.com/apps/desktop) - Allows for cloning of a Git REprositpory from GitHub to local folder
+
+### IDEs Online
+
+* [Replit](https://replit.com/) - Online IDE for multiple languages, Limits for free account
+* [Google CoLab](https://colab.research.google.com/) - Jupyter Notebook (Python) based Editor Has some limitations but alloes for multiple python programs on one notebook
+* [Trinket.io](https://trinket.io/) - Online IDE with the ability to integrate into other pages. Free version limited to Python 2 and not as robust as some of the others
+* [VSCode Dev](https://vscode.dev/) - Online Version of Visual Studio Code, Can access Github Repositories as well as local folders. Can use many of the same extensions as the offline version
+* [Codepad](https://codepad.app/) - Relatively new and similar to both repelit and Trinket. More flexable than trinket with similar performance to Replit. Free (For the moment)
 
 ### Computer Science
 
@@ -33,7 +41,7 @@ Below are a series of Curated links broken down by topic.
 - [Network Hardware Word Match Quiz](https://wordwall.net/resource/4384280/computing/14-network-hardware) - Word Match Quiz on Network Hardware
 - [Network Design Drag and Drop](https://www.101computing.net/network-design-drag-drop/) - Identify Common Network Hardware
 
-### AI Links
+### AI Resources
 
 * [ChatGPT Cheatsheet](https://quickref.me/chatgpt) - Help in creating prompts for ChatGPT and other LLMs
 
@@ -70,14 +78,14 @@ Below are a series of Curated links broken down by topic.
 * [Code Puzzle](https://www.codepuzzle.io/en) - Create Puzzles from code (07/2023)
   * [Example Puzzle from Code Puzzle](https://www.codepuzzle.io/p/PFU2CS) - Example - Put the code shown in the correct order (07/2023)
 * [Deck of Cards](https://deck.of.cards) - Deck of Cards. Can be used for demonstrating Sorting Methods (07/2023)
-* [https://www.toptal.com/developers/sorting-algorithms](https://www.toptal.com/developers/sorting-algorithms) - A Nice Site demonstrating Graphically the different types of Sorting Algorithims (07/2023)
+* [Sorting Algorithms Visualization](https://www.toptal.com/developers/sorting-algorithms) - A Nice Site demonstrating Graphically the different types of Sorting Algorithims (07/2023)
 
 ### Links From National Workshop 7
 
-- [https://www.techtarget.com/whatis/definition/black-box-AI](https://www.techtarget.com/whatis/definition/black-box-AI) - Comprehensive Explination of Black Box AI (07/2023)
-- [https://logic.puzzlebaron.com/](https://logic.puzzlebaron.com/) - Site Containing a Series of Logic Puzzles (07/2023)
-- [https://nearpod.com/library/](https://nearpod.com/library/) - Create Interactive Presentations for use in Classroom (07/2023)
-- [https://docs.google.com/spreadsheets/d/1QDIDJwHmNkSO-PKfXtJbgIvcpnAd9Bnt/edit#gid=852131076](https://docs.google.com/spreadsheets/d/1QDIDJwHmNkSO-PKfXtJbgIvcpnAd9Bnt/edit#gid=852131076) - CS Planning Tool from National Workshop 7 (07/2023)
+- [Black Box AI Definition](https://www.techtarget.com/whatis/definition/black-box-AI) - Comprehensive Explination of Black Box AI (07/2023)
+- [Logic Puzzle Baron](https://logic.puzzlebaron.com/) - Site Containing a Series of Logic Puzzles (07/2023)
+- [Nearpod Library](https://nearpod.com/library/) - Create Interactive Presentations for use in Classroom (07/2023)
+- [CS Planning Tool](https://docs.google.com/spreadsheets/d/1QDIDJwHmNkSO-PKfXtJbgIvcpnAd9Bnt/edit#gid=852131076) - CS Planning Tool from National Workshop 7 (07/2023)
 
 ### General Links
 
@@ -85,23 +93,23 @@ Below are a series of Curated links broken down by topic.
 
 ### Github Based Resources
 
-- [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of Python frameworks, libraries, software and resources. (07/2023)
-- [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Javascript Coding Challange - Build 30 apps in 30 Days (07/2023)
-- [https://github.com/TheAlgorithms](https://github.com/TheAlgorithms) - Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language (07/2023)
-- [https://github.com/TheOdinProject](https://github.com/TheOdinProject) - open-source curriculum for learning full-stack web development. (07/2023)
-- [https://github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. (07/2023)
-- [https://github.com/lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations (07/2023)
+- [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of Python frameworks, libraries, software and resources. (07/2023)
+- [JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Javascript Coding Challange - Build 30 apps in 30 Days (07/2023)
+- [The Algorithms](https://github.com/TheAlgorithms) - Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language (07/2023)
+- [The Odin Project](https://github.com/TheOdinProject) - open-source curriculum for learning full-stack web development. (07/2023)
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. (07/2023)
+- [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations (07/2023)
 - [Open Source Society University Path to Computer Science](https://github.com/ossu/computer-science) - A roadmap to learning Computer science using freely available resources
 
 ### YouTube Resources
 
-- [https://www.youtube.com/@coreyms/playlists](https://www.youtube.com/@coreyms/playlists) - Corey Schafer YouTube Channel with a wide range of Coding Tutorials (07/2023)
-- [https://www.youtube.com/@DanielMurrayMakes/playlists](https://www.youtube.com/@DanielMurrayMakes/playlists) - Daniel Murry Channel CS Teacher from Dublin (07/2023)
+- [Corey Schafer YouTube Channel](https://www.youtube.com/@coreyms/playlists) - Corey Schafer YouTube Channel with a wide range of Coding Tutorials (07/2023)
+- [Daniel Murray Makes](https://www.youtube.com/@DanielMurrayMakes/playlists) - Daniel Murry Channel CS Teacher from Dublin (07/2023)
 
 ### Computational Thinking
 
-- [https://www.nicholawilkin.com/single-post/computational-thinking](https://www.nicholawilkin.com/single-post/computational-thinking) - What is Computational Thinking and how to Effectivly teach it (07/2023)
+- [Computational Thinking Guide](https://www.nicholawilkin.com/single-post/computational-thinking) - What is Computational Thinking and how to Effectivly teach it (07/2023)
 
 ### Games for T&L
 
-- [https://flippybitandtheattackofthehexadecimalsfrombase16.com/](https://flippybitandtheattackofthehexadecimalsfrombase16.com/) - A nice pixel style game to help students learn and become familar with Hexadecimal numbers (07/2023)
+- [Flippy Bit and the Attack of the Hexadecimals](https://flippybitandtheattackofthehexadecimalsfrombase16.com/) - A nice pixel style game to help students learn and become familar with Hexadecimal numbers (07/2023)
