@@ -1,0 +1,7 @@
+Criteria,Excellent (4),Good (3),Satisfactory (2),Needs Improvement (1)
+For Loop,"For loop clearly controls number of questions; correct variable use","Works for rounds but minor issues","Attempt made but logic unclear","Missing or unrelated use"
+While Loop,"Repeats until answer correct (or quit) with no logic errors","Repeats correctly but has small issues","Repeats but logic flaws (e.g. no exit)","Missing/incorrect use"
+If/Elif/Else,"Fully handles correct, quit, and wrong cases with correct indentation & colons","Handles most situations","Handles some situations but incomplete","Very limited decision use or missing"
+Summary Output,"Prints clear, accurate summary (rounds + score, possibly extras)","Prints most relevant info","Partial output","No summary provided"
+Code Clarity,"Fully indented, meaningful variables, easy to follow","Mostly clear with minor issues","Code runs but messy/unclear","Very difficult to read or broken"
+Reflection,"Complete, thoughtful answers that show understanding","Most answers correct and complete","Minimal or simplistic answers","Very little effort or missing"
