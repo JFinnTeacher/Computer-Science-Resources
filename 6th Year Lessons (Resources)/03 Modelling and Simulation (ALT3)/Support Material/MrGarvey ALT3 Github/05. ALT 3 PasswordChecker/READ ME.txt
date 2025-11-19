@@ -1,0 +1,5 @@
+This program takes in a suggested password from the user and checks it's strength as a password. It also takes in an imaginary number of password cracks the computer can attempt per second. A middle of the road dedicated machine can achieve 3 billion checks per second.
+ 
+-it firstly checks if the password exists in the dictionary
+-it then breaks down the password into it's different parts and uses the different character sets to predict the number of possible combinations for a password of that size.
+-using the password combinations and the number of attempted cracks per second, it works out how long it should take to crack the password on average. 
