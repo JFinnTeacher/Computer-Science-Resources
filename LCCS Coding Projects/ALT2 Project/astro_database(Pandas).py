@@ -5,17 +5,20 @@ Date: Dec 2025
 '''
 
 # Import necessary libraries
+import pandas as pd
 
+df = pd.read_csv('astrodbase.csv')
+print(df.head())
 # Load the CSV File 
 
 # Process the data to extract information of time spent in space by country
 
-    # Show Visualization of time spent in space by country
+# Show Visualization of time spent in space by country
 
 # Process the data to extract the information by gender
 
-    # Show Visualization of time spent in space by gender
+# Show Visualization of time spent in space by gender
 
 # Process the data to extract the information of country by gender
 
-    # Show Visualization of country by gender  
+# Show Visualization of country by gender  
