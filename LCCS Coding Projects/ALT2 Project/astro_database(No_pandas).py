@@ -81,19 +81,11 @@ for i in range(len(time_in_space)):
 
 
 # Show Visualization of time spent in space by country
-plt.figure(figsize=(12, 6))
-bars = plt.bar(unique_countries, time_in_space)
 
-# Add value labels on top of each bar
-for i in range(len(unique_countries)):
-    plt.text(i, time_in_space[i], str(time_in_space[i]), 
-             ha='center', va='bottom', rotation=90)
 
-plt.xlabel("Country")
-plt.ylabel("Hours in Space")
+plt.figure(figsize=(10,10))
+plt.pie(time_in_space, labels=unique_countries, autopct = "%1.1f%%")
 plt.title("Total Time in Space by Country")
-plt.xticks(rotation=90)
-plt.tight_layout()
 plt.show()
 
 # Process the data to extract the information by gender
@@ -113,19 +105,9 @@ for i in range (len(genders)):
         unique_gender.append(gender)
         time_in_space.append(hours)
 # Show Visualization of time spent in space by gender
-
-plt.figure(figsize=(12, 6))
-bars = plt.bar(unique_gender, time_in_space)
-
-# Add value labels on top of each bar
-for i in range(len(unique_gender)):
-    plt.text(i, time_in_space[i], str(time_in_space[i]), 
-             ha='center', va='bottom')
-
-plt.xlabel("Gender")
-plt.ylabel("Hours in Space")
-plt.title("Total Time in Space by Gender")
-plt.tight_layout()
+plt.figure(figsize=(10,10))
+plt.pie(time_in_space, labels=gender, autopct = "%1.1f%%")
+plt.title("Total Time in Space by Country")
 plt.show()
     
 # Process the data to extract the information of country by gender
