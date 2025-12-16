@@ -7,6 +7,7 @@ Date: Dec 2025
 # Import necessary libraries
 import csv
 import matplotlib.pyplot as plt
+import os
 
 # Initilise the required lists for processing
 names = []
@@ -17,7 +18,7 @@ total_flights = []
 flight_times = []
 
 # Load the CSV File 
-with open("astrodbase.csv", "r") as file:
+with open(os.path.join(os.path.dirname(__file__), "astrodbase.csv"), "r", newline='', encoding='utf-8') as file:
     csv_reader = csv.reader(file)
     next(csv_reader)  # Skip header
     
