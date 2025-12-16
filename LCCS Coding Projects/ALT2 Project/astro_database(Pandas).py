@@ -6,11 +6,9 @@ Date: Dec 2025
 
 # Import necessary libraries
 import pandas as pd
-
-df = pd.read_csv('astrodbase.csv')
-print(df.head())
 # Load the CSV File 
-
+df = pd.read_csv('astrodbase.csv')
+print(df['Total Flight Time (ddd:hh:mm)'].head())
 # Process the data to extract information of time spent in space by country
 
 # Show Visualization of time spent in space by country
@@ -19,6 +17,3 @@ print(df.head())
 
 # Show Visualization of time spent in space by gender
 
-# Process the data to extract the information of country by gender
-
-# Show Visualization of country by gender  
