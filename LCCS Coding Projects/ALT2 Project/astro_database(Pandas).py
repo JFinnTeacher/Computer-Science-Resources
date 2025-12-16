@@ -19,11 +19,15 @@ def convert_to_hours(time_space):
 df['Total Hours'] = df['Total Flight Time (ddd:hh:mm)'].apply(convert_to_hours)
 
 # Show Visualization of time spent in space by country
-print(df.groupby('Country')['Total Hours'].sum().sort_values(ascending=False))
+# print(df.groupby('Country')['Total Hours'].sum().sort_values(ascending=False))
+country_hours = df.groupby('Country')['Total Hours'].sum().sort_values(ascending=False)
+country_hours.plot(kind="pie")
+plt.show()
 
-plt.pie(time_in_space, labels=unique_countries, autopct='%1.0f%%', 
-        textprops={'fontsize': 8})
 # Process the data to extract the information by gender
-
+print(df.groupby("Gender")['Total Hours'].sum())
+gender_hours = df.groupby("Gender")["Total Hours"].sum()
+gender_hours.plot(kind="pie")
+plt.show()
 # Show Visualization of time spent in space by gender
 
