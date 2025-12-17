@@ -25,9 +25,8 @@ country_hours.plot(kind="pie")
 plt.show()
 
 # Process the data to extract the information by gender
+# Show Visualization of time spent in space by gender
 print(df.groupby("Gender")['Total Hours'].sum())
 gender_hours = df.groupby("Gender")["Total Hours"].sum()
 gender_hours.plot(kind="pie")
 plt.show()
-# Show Visualization of time spent in space by gender
-
