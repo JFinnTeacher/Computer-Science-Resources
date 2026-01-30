@@ -14,6 +14,7 @@
         { "title": "Thonny", "url": "https://thonny.org/", "description": "Basic IDE for working with Python" },
         { "title": "Visual Studio Code", "url": "https://code.visualstudio.com/", "description": "More powerful IDE from Microsoft" },
         { "title": "Github Desktop", "url": "https://github.com/apps/desktop", "description": "Clone Git repositories from GitHub to a local folder" }
+        { "title": "VS Codium", "url": "https://vscodium.com/", "description": "An Open Source Version of VS Code with the Microsoft Additions removed."}
       ]
     },
     {
