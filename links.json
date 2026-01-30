@@ -1,0 +1,168 @@
+{
+  "sections": [
+    {
+      "id": "general-purposes",
+      "title": "General Purposes",
+      "links": [
+        { "title": "Teach with ICT", "url": "https://teachwithict.weebly.com", "description": "Good website with strategies and resources for teaching ICT (02/2025)" }
+      ]
+    },
+    {
+      "id": "ides-offline",
+      "title": "IDEs Offline",
+      "links": [
+        { "title": "Thonny", "url": "https://thonny.org/", "description": "Basic IDE for working with Python" },
+        { "title": "Visual Studio Code", "url": "https://code.visualstudio.com/", "description": "More powerful IDE from Microsoft" },
+        { "title": "Github Desktop", "url": "https://github.com/apps/desktop", "description": "Clone Git repositories from GitHub to a local folder" }
+      ]
+    },
+    {
+      "id": "ides-online",
+      "title": "IDEs Online",
+      "links": [
+        { "title": "Replit", "url": "https://replit.com/", "description": "Online IDE for multiple languages; limits on free account" },
+        { "title": "Google CoLab", "url": "https://colab.research.google.com/", "description": "Jupyter Notebook (Python) editor; allows multiple programs in one notebook" },
+        { "title": "Trinket.io", "url": "https://trinket.io/", "description": "Online IDE that can be embedded in other pages; free version limited to Python 2" },
+        { "title": "VSCode Dev", "url": "https://vscode.dev/", "description": "Online Visual Studio Code; access GitHub repos and local folders; many of the same extensions" },
+        { "title": "Codepad", "url": "https://codepad.app/", "description": "Similar to Replit and Trinket; more flexible than Trinket (free for now)" }
+      ]
+    },
+    {
+      "id": "computer-science",
+      "title": "Computer Science",
+      "links": [
+        { "title": "Teckno CS Course", "url": "https://teckno.dell.com/courses/", "description": "Free Computer Science and coding courses from Dell for Leaving Cert CS" }
+      ]
+    },
+    {
+      "id": "python-coding",
+      "title": "Python Coding",
+      "links": [
+        { "title": "Turing Labs", "url": "https://www.amazonfutureengineer.co.uk/turinglab", "description": "Learn Python from Amazon Future Engineer" },
+        { "title": "Python CheatSheet", "url": "https://quickref.me/python#google_vignette", "description": "Python cheat sheet" }
+      ]
+    },
+    {
+      "id": "networking",
+      "title": "Networking",
+      "links": [
+        { "title": "Network Animations", "url": "https://aboelela.site/projects/net-seal/animations/", "description": "Network animations explaining how they work" },
+        { "title": "Network Protocol Matching Quiz", "url": "https://wordwall.net/resource/17098513/computing/ks4-network-protocols", "description": "Word matching quiz for network protocols" },
+        { "title": "Network Hardware Word Match Quiz", "url": "https://wordwall.net/resource/4384280/computing/14-network-hardware", "description": "Word match quiz on network hardware" },
+        { "title": "Network Design Drag and Drop", "url": "https://www.101computing.net/network-design-drag-drop/", "description": "Identify common network hardware" }
+      ]
+    },
+    {
+      "id": "ai-resources",
+      "title": "AI Resources",
+      "links": [
+        { "title": "ChatGPT Cheatsheet", "url": "https://quickref.me/chatgpt", "description": "Help creating prompts for ChatGPT and other LLMs" }
+      ]
+    },
+    {
+      "id": "data-sources",
+      "title": "Data Sources (ALT2)",
+      "links": [
+        { "title": "Our World in Data", "url": "https://ourworldindata.org/", "description": "Free data sources for analytics" },
+        { "title": "Statista", "url": "https://www.statista.com/", "description": "Free-to-use data sources" },
+        { "title": "Kaggle", "url": "https://www.kaggle.com/", "description": "Free datasets; no login required" }
+      ]
+    },
+    {
+      "id": "operating-systems",
+      "title": "Operating Systems",
+      "links": [
+        { "title": "OS Definitions", "url": "https://wordwall.net/resource/17405688/-8-computer-operating-system-", "description": "Match OS words to their definitions" },
+        { "title": "Virtual Machines Online", "url": "https://www.onworks.net/programs/vm-online", "description": "Run Windows, Mac or Linux in a VM in the browser" },
+        { "title": "PCJs machines", "url": "https://www.pcjs.org/", "description": "Old operating systems running in browser emulators" },
+        { "title": "Web OS", "url": "https://webos.js.org/", "description": "Run versions of operating systems including Mac OS online" },
+        { "title": "Operating System Library", "url": "https://winworldpc.com/library/operating-systems", "description": "Disk images of old OSes for virtual machines" }
+      ]
+    },
+    {
+      "id": "micro-bit",
+      "title": "Micro bit",
+      "links": [
+        { "title": "Microbit and AI", "url": "https://microbit.org/get-started/user-guide/microbit-createai/", "description": "Explore AI through movement and machine learning (ML)" }
+      ]
+    },
+    {
+      "id": "logic-gates",
+      "title": "Logic Gates",
+      "links": [
+        { "title": "Logicly", "url": "https://logic.ly/", "description": "Create and simulate logic gates online (free trial)" },
+        { "title": "Logic Circuit", "url": "https://logiccircuit.org/download.html", "description": "Free software for logic circuits and truth tables" },
+        { "title": "Everycircuit", "url": "https://everycircuit.com/app", "description": "Online electronic circuit simulator including logic gates" }
+      ]
+    },
+    {
+      "id": "books",
+      "title": "Books",
+      "links": [
+        { "title": "100 Ideas for Secondary Teachers - Outstanding Computing Lessons", "url": "https://www.bloomsbury.com/uk/100-ideas-for-secondary-teachers-outstanding-computing-lessons-9781472984401/", "description": "Teaching strategies for CS (07/2023)" }
+      ]
+    },
+    {
+      "id": "classroom-resources",
+      "title": "Classroom Resources",
+      "links": [
+        { "title": "Code Puzzle", "url": "https://www.codepuzzle.io/en", "description": "Create puzzles from code (07/2023)" },
+        { "title": "Example Puzzle from Code Puzzle", "url": "https://www.codepuzzle.io/p/PFU2CS", "description": "Put the code in the correct order (07/2023)" },
+        { "title": "Deck of Cards", "url": "https://deck.of.cards", "description": "For demonstrating sorting methods (07/2023)" },
+        { "title": "Sorting Algorithms Visualization", "url": "https://www.toptal.com/developers/sorting-algorithms", "description": "Graphical sorting algorithms (07/2023)" }
+      ]
+    },
+    {
+      "id": "national-workshop-7",
+      "title": "Links From National Workshop 7",
+      "links": [
+        { "title": "Black Box AI Definition", "url": "https://www.techtarget.com/whatis/definition/black-box-AI", "description": "Explanation of Black Box AI (07/2023)" },
+        { "title": "Logic Puzzle Baron", "url": "https://logic.puzzlebaron.com/", "description": "Series of logic puzzles (07/2023)" },
+        { "title": "Nearpod Library", "url": "https://nearpod.com/library/", "description": "Interactive presentations for the classroom (07/2023)" },
+        { "title": "CS Planning Tool", "url": "https://docs.google.com/spreadsheets/d/1QDIDJwHmNkSO-PKfXtJbgIvcpnAd9Bnt/edit#gid=852131076", "description": "CS Planning Tool from National Workshop 7 (07/2023)" }
+      ]
+    },
+    {
+      "id": "general-links",
+      "title": "General Links",
+      "links": [
+        { "title": "Computer Science Circles", "url": "https://cscircles.cemc.uwaterloo.ca/", "description": "University of Waterloo intro to CS and Python; free with login to save progress (06/2022)" }
+      ]
+    },
+    {
+      "id": "github-resources",
+      "title": "Github Based Resources",
+      "links": [
+        { "title": "Awesome Python", "url": "https://github.com/vinta/awesome-python", "description": "Curated list of Python frameworks, libraries and resources (07/2023)" },
+        { "title": "JavaScript30", "url": "https://github.com/wesbos/JavaScript30", "description": "30-day JavaScript challenge – 30 apps in 30 days (07/2023)" },
+        { "title": "The Algorithms", "url": "https://github.com/TheAlgorithms", "description": "Data structures & algorithms in many languages (07/2023)" },
+        { "title": "The Odin Project", "url": "https://github.com/TheOdinProject", "description": "Open-source full-stack web development curriculum (07/2023)" },
+        { "title": "Build Your Own X", "url": "https://github.com/codecrafters-io/build-your-own-x", "description": "Step-by-step guides to re-create technologies from scratch (07/2023)" },
+        { "title": "JavaScript Questions", "url": "https://github.com/lydiahallie/javascript-questions", "description": "Advanced JavaScript questions and explanations (07/2023)" },
+        { "title": "Open Source Society University Path to Computer Science", "url": "https://github.com/ossu/computer-science", "description": "Roadmap using free resources (07/2023)" }
+      ]
+    },
+    {
+      "id": "youtube-resources",
+      "title": "YouTube Resources",
+      "links": [
+        { "title": "Corey Schafer YouTube Channel", "url": "https://www.youtube.com/@coreyms/playlists", "description": "Coding tutorials (07/2023)" },
+        { "title": "Daniel Murray Makes", "url": "https://www.youtube.com/@DanielMurrayMakes/playlists", "description": "CS teacher from Dublin (07/2023)" }
+      ]
+    },
+    {
+      "id": "computational-thinking",
+      "title": "Computational Thinking",
+      "links": [
+        { "title": "Computational Thinking Guide", "url": "https://www.nicholawilkin.com/single-post/computational-thinking", "description": "What is computational thinking and how to teach it (07/2023)" }
+      ]
+    },
+    {
+      "id": "games-for-tl",
+      "title": "Games for T&L",
+      "links": [
+        { "title": "Flippy Bit and the Attack of the Hexadecimals", "url": "https://flippybitandtheattackofthehexadecimalsfrombase16.com/", "description": "Game for learning hexadecimal numbers (07/2023)" }
+      ]
+    }
+  ]
+}
