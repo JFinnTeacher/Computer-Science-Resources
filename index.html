@@ -178,7 +178,9 @@
       if (!sectionId || !title || !url) return;
       var entry = { title: title, url: url };
       if (description) entry.description = description;
-      var jsonStr = JSON.stringify(entry, null, 2);
+      var parts = ['"title": ' + JSON.stringify(entry.title), '"url": ' + JSON.stringify(entry.url)];
+      if (entry.description) parts.push('"description": ' + JSON.stringify(entry.description));
+      var jsonStr = '{ ' + parts.join(', ') + ' }';
       document.getElementById('add-link-json').textContent = jsonStr;
       document.getElementById('add-link-output').classList.remove('hidden');
       document.getElementById('copy-feedback').classList.add('hidden');
