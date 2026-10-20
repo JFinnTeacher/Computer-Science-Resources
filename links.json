@@ -23,7 +23,7 @@
       "links": [
         { "title": "Replit", "url": "https://replit.com/", "description": "Online IDE for multiple languages; limits on free account" },
         { "title": "Google CoLab", "url": "https://colab.research.google.com/", "description": "Jupyter Notebook (Python) editor; allows multiple programs in one notebook" },
-        { "title": "Trinket.io", "url": "https://trinket.io/", "description": "Online IDE that can be embedded in other pages; free version limited to Python 2" },
+        { "title": "Coddy", "url": "https://coddy.tech/playground", "description": "Online IDE that can be embedded in other pages; free, no account needed, Python 3 (including turtle) and 30+ other languages" },
         { "title": "VSCode Dev", "url": "https://vscode.dev/", "description": "Online Visual Studio Code; access GitHub repos and local folders; many of the same extensions" },
         { "title": "Codepad", "url": "https://codepad.app/", "description": "Similar to Replit and Trinket; more flexible than Trinket (free for now)" }
       ]
