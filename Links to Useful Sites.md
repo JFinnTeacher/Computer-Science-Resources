@@ -21,7 +21,7 @@ Below are a series of Curated links broken down by topic.
 
 * [Replit](https://replit.com/) - Online IDE for multiple languages, Limits for free account
 * [Google CoLab](https://colab.research.google.com/) - Jupyter Notebook (Python) based Editor Has some limitations but allows for multiple python programs on one notebook
-* [Trinket.io](https://trinket.io/) - Online IDE with the ability to integrate into other pages. Free version limited to Python 2 and not as robust as some of the others
+* [Coddy](https://coddy.tech/playground) - Online IDE with the ability to integrate into other pages. Free, no account needed, Python 3 (including turtle) and 30+ other languages
 * [VSCode Dev](https://vscode.dev/) - Online Version of Visual Studio Code, Can access Github Repositories as well as local folders. Can use many of the same extensions as the offline version
 * [Codepad](https://codepad.app/) - Relatively new and similar to both repel it and Trinket. More flexible than trinket with similar performance to Replit. Free (For the moment)
 
